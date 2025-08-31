@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(setx:*)",
+      "Bash(echo $env:HOME_COUNTRY)",
+      "Bash(powershell:*)",
+      "Bash(git init:*)",
+      "Bash(gh auth:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git reset:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

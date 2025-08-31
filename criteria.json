@@ -1,0 +1,12 @@
+{
+  "titles": ["Solutions Architect", "AI Solutions Architect", "Cloud Architect"],
+  "must_have": ["Azure", "AWS", "MLOps", "GenAI"],
+  "nice_to_have": ["Kubernetes", "Databricks", "Vertex AI", "Bedrock"],
+  "exclude": ["Intern", "Junior", "Unpaid"],
+  "locations": ["Netherlands", "Remote Europe", "Amsterdam", "Utrecht"],
+  "company_size": ["200-5000", "5000+"],
+  "salary_min_eur": 90000,
+  "visa_sponsor_ok": true,
+  "remote_first": true,
+  "experience_level": ["Senior", "Principal"]
+}
